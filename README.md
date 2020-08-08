@@ -4,6 +4,11 @@
 
 ## About
 
+### How can I get it?
+
+Well, you can build one yourself from the source files here, or better yet, you can purchase a kit from my Tindie store below:
+[https://www.tindie.com/products/schenktronics/power-brigand/](https://www.tindie.com/products/schenktronics/power-brigand/)
+
 ### What is it?
 
 Power Brigand is a module that attaches to HP common slot power supplies that are normally used in servers.  It has connectors and/or binding posts to bring 12v power to your devices.  It also has controls which allow you to turn the power supply on and off, as well as display parameters such as voltage, current, and temperature from the i2c bus on the power supply.
