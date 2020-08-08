@@ -1,0 +1,9 @@
+*.gbr
+*.ods
+*.sch-bak
+*.pcb-bak
+*.lbrn
+*.zip
+*.step
+*.csv
+PowerBrigand-PCB/gerbers/*
