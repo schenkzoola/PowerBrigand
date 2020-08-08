@@ -713,17 +713,6 @@ void lcdStateMachine(){
     }
 }
 
-//OneShot Rising
-bool osr(bool input){
-  static bool storage;
-  if(input && !storage){
-    return 1;
-    storage = input;
-  }
-  storage = input;
-  return 0;
-}
-
 //Override current and wattage for certain power supplies
 
 
