@@ -6,7 +6,7 @@
 
 ### How can I get it?
 
-Well, you can build one yourself from the source files here, or better yet, you can purchase a kit from my Tindie store below:
+Well, you can build one yourself from the source files here, or better yet, within a day or two (probably Monday 8/10/2020) you can purchase a kit from my Tindie store below:
 [https://www.tindie.com/products/schenktronics/power-brigand/](https://www.tindie.com/products/schenktronics/power-brigand/)
 
 ### What is it?
