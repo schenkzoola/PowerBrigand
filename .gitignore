@@ -1,7 +1,7 @@
 *.gbr
 *.ods
 *.sch-bak
-*.pcb-bak
+*.kicad_pcb-bak
 *.lbrn
 *.zip
 *.step
