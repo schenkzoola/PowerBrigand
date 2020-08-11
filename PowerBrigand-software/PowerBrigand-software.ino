@@ -11,7 +11,7 @@
  * 1    - Settings optimized for 460W supplies
  * 254  - Measure analog output voltage directly.  Write it to the LCD and the serial port.
 *****************************************************************************************/
-#define powerSupplyType 1       //Power supply type
+#define powerSupplyType 0       //Power supply type
 
 
 /****************************************************************************************
