@@ -6,8 +6,9 @@
 
 ### How can I get it?
 
-Well, you can build one yourself from the source files here, or better yet, within a day or two (probably Tuesday 8/11/2020) you can join the waitlist for a kit from my Tindie store below:
+Well, you can build one yourself from the source files here, or better yet, you can join the waitlist for a kit from my Tindie store below:
 [https://www.tindie.com/products/schenktronics/power-brigand/](https://www.tindie.com/products/schenktronics/power-brigand/)
+The parts for the first batch of kits have been ordered! 
 
 ### What is it?
 
